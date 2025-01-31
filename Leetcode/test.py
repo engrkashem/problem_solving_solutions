@@ -1,3 +1,4 @@
-a=10
-n=[1]*a
-print(n)
+i=4
+
+print(i>>1)
+print(i&1, i)
